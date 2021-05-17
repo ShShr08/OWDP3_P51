@@ -1,0 +1,29 @@
+body {
+    background-color: #6ad4db;
+}
+
+p{
+    color:rgb(30, 255, 0)
+}
+
+li{
+    color:rgb(0, 0, 0);
+}
+
+h1{
+    color:rgb(233, 95, 192);
+}
+
+.grid{
+    display:flex;
+    justify-content: space-between;
+}
+.origami{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 310px;
+}
