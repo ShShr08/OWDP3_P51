@@ -24,12 +24,12 @@ h1{
 .origami{
     display:flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     border-radius: 20px;
     background-color: rgb(255, 255, 255);
     font-family: arial;
     color: rgb(0, 0, 0);
-    width: 310px;
+    width: 250px;
 }
 .grid img{
     border: 2px solid rgb(28, 155, 28);
